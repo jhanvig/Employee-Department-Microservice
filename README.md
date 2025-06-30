@@ -1,4 +1,4 @@
- 🧩 Spring Boot Microservices Project: Employee-Department Management
+### 🧩 Spring Boot Microservices Project: Employee-Department Management
 
 This project demonstrates a microservices architecture using **Spring Boot**, consisting of multiple services communicating with each other through a **Service Registry** and **API Gateway**.
 
