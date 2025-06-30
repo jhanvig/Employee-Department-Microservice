@@ -28,8 +28,8 @@ This system is composed of the following services:
 ### ⬇️ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/jhanvig/Employee-Department-Microservice
+cd Employee-Department-Microservice
 ```
 
 ## 📂 Project Structure
